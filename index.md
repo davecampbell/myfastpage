@@ -6,6 +6,8 @@ layout: home
 search: exclude
 ---
 
+this is Dave Campbell's Fastpages Site...
+
 This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
 
 ![](images/diagram.png "https://github.com/fastai/fastpages")
